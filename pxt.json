@@ -1,7 +1,7 @@
 {
-    "name": "ir",
-    "version": "0.1.2",
-    "description": "Tinkercademy package for ElecFreaks IR receiver module",
+    "name": "ir_free",
+    "version": "0.0.1",
+    "description": "Tinkercademy package for Freenove IR receiver module",
     "license": "MIT",
     "dependencies": {
         "core": "*"
