@@ -46,7 +46,7 @@
     N8 = 0x52,
     N9 = 0x4A
     }
-declare namespace IR {
+declare namespace IR_FREE {
 }
 
 // Auto-generated. Do not edit. Really.
