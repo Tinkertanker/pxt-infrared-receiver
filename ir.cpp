@@ -37,7 +37,7 @@ enum class RemoteButton {
     Play = 0x15,
     End = 0x09,
     N0 = 0x16,
-    Subtract = 0x19,
+    Sub = 0x19,
     C = 0x0D,
     N1 = 0x0C,
     N2 = 0x18,
